@@ -1,2 +1,2 @@
-使用VUE和ElemtntPlus制作的一个电商后台管理系统
+使用VUE和ElementPlus制作的一个电商后台管理系统
 后台接口使用的是现成的node.js加mysql，接口数据有限，有部分重复功能因没有数据无法实现
